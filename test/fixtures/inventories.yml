@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wheel: MyString
+  size: 1
+  description: MyText
+  serial_number: MyString
+
+two:
+  wheel: MyString
+  size: 1
+  description: MyText
+  serial_number: MyString
